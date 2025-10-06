@@ -191,7 +191,7 @@ npx expo start --clear
 - Indicator trạng thái online/offline
 
 ### Chi tiết bài viết
-<img src="/Users/ngocanh/Documents/Đa nền tảng/offline-news-reader/Simulator Screenshot - iPhone 15 Pro - 2025-10-06 at 19.33.49.png" alt="Chi tiết bài viết" width="300"/>
+<img src="/Simulator Screenshot - iPhone 15 Pro - 2025-10-06 at 19.33.49.png" alt="Chi tiết bài viết" width="300"/>
 
 *Màn hình đọc chi tiết với:*
 - Header với category badge
