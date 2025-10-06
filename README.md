@@ -182,7 +182,7 @@ npx expo start --clear
 ## 📱 Demo Giao diện
 
 ### Màn hình chính - Danh sách tin tức
-<img src="/Users/ngocanh/Documents/Đa nền tảng/offline-news-reader/Simulator Screenshot - iPhone 15 Pro - 2025-10-06 at 19.29.43.png" alt="Màn hình chính" width="300"/>
+<img src="/Simulator Screenshot - iPhone 15 Pro - 2025-10-06 at 19.29.43.png" alt="Màn hình chính" width="300"/>
 
 *Giao diện danh sách tin tức với các tính năng:*
 - Chọn nguồn tin (VnExpress, Tuổi Trẻ, Thanh Niên)
